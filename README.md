@@ -15,8 +15,8 @@ This Terraform project deploys and configures Uptime Kuma for L2C monitoring on 
 1. **Clone the repository**  
 
    ```sh
-   git clone <repository_url>
-   cd ltc-uptime-kuma-monitoring
+   git clone https://github.com/rishabkumar7/l2c-uptime-kuma-monitoring
+   cd l2c-uptime-kuma-monitoring
    ```
 
 
